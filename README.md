@@ -1,4 +1,4 @@
-# Ingenieía de Sofware: Team-3
+# Ingeniería de Sofware: Team-3
 
 ## Integrantes
 - Joan Paulette Vázquez 
@@ -11,6 +11,6 @@
 PhD. Carlos Mera Gómez 
 
 ## Prototipo
-Se utlizó la plataforma llamada _MarvelAPP_ para realizar el protipado. link: 
+Se utilizó la plataforma llamada _MarvelAPP_ para realizar el protipado. link: 
 https://marvelapp.com/prototype/fc74b90
 
