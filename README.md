@@ -3,7 +3,7 @@
 ## Integrantes
 - Joan Paulette Vázquez 
 - Adriana Lourdes Riofrío  
-- Josué Eulises Dávalos Carrera  
+- Josué Eulises Dávalos  
 - Jocellyn Marie Luna 
 - Robert Denilson Moreno 
 
