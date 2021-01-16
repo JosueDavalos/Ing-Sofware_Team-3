@@ -12,5 +12,5 @@ PhD. Carlos Mera Gómez
 
 ## Prototipo
 Se utilizó la plataforma llamada _MarvelAPP_ para realizar el prototipado. link: 
-https://marvelapp.com/prototype/fc74b90
+https://xd.adobe.com/view/5f3af11b-d13c-455f-b985-0f0c89d2dd97-0a69/?fullscreen
 
